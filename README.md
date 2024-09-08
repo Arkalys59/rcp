@@ -1,3 +1,3 @@
 # Rich Presence for FiveM
-Author: Atoshi
-\nDiscord: https://discord.gg/fivedev
+- Author: Atoshi
+- Discord: https://discord.gg/fivedev
