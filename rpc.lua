@@ -53,4 +53,6 @@ function RichPresence:start()
     end)
 end
 
-local rpc = RichPresence:new(1282169883043299399, 'logo_1024', 'Made by Atoshi', nil, nil, 'Discord', 'https://discord.gg/outlawsrp', nil, nil)
+local appId = YOUR_APP_ID
+
+local rpc = RichPresence:new(appId, 'logo_1024', 'Made by Atoshi', nil, nil, 'Discord', 'https://discord.gg/outlawsrp', nil, nil)
